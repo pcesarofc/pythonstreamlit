@@ -1,5 +1,4 @@
 import pandas as pd
-import seaborn as sns
 import os
 import numpy as np
 from sklearn.metrics import accuracy_score
