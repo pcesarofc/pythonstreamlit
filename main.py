@@ -1,10 +1,5 @@
 import pandas as pd
-import os
-import numpy as np
-from sklearn.metrics import accuracy_score
-from sklearn.model_selection import train_test_split
 import streamlit as st
-import matplotlib.pyplot as plt
 
 st.title("Partidas Ranqueadas - LOL")
 st.write('')
